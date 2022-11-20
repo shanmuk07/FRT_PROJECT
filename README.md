@@ -15,14 +15,15 @@
 ![img_about_4](https://user-images.githubusercontent.com/104714887/202886128-da5b3a32-37d0-442b-ad90-1876ee045df6.jpg)
 
 # Course Page:
+![img_courses_1](https://user-images.githubusercontent.com/104714887/202886307-5f54217a-d0ee-4145-96bf-e43d52fa4629.jpg)
+![img_courses_2](https://user-images.githubusercontent.com/104714887/202886313-16fe2852-6faf-442a-97d5-eb31b0d22d20.jpg)
 
 
-
-#Contact Us Page:
-
+# Contact Us Page:
+![img_contact_1](https://user-images.githubusercontent.com/104714887/202886318-557c2e67-20dd-41e4-890b-d1f3faaa6d93.jpg)
+![img_contact_2](https://user-images.githubusercontent.com/104714887/202886324-033c4eef-487f-42c5-af22-d180de768d9b.jpg)
 
 # Project Demo Link(Youtube):
 
 # Azure Portal:
-
 ![img_azure_portal](https://user-images.githubusercontent.com/104714887/202886199-f8cca107-0f97-4db6-bcdc-ae07d0be89ac.jpg)
